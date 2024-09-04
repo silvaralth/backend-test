@@ -3,6 +3,8 @@
 **Objetivo:**  
 El objetivo de esta prueba es evaluar la capacidad del candidato para crear una API RESTful utilizando Node.js, bajo los principios de Clean Architecture (Arquitectura Limpia). Queremos observar la organización del código, la separación de responsabilidades y la capacidad para crear código escalable y mantenible.
 
+***
+
 ### **Requerimientos:**
 
 1. **Contexto del Proyecto:**
@@ -70,6 +72,8 @@ El objetivo de esta prueba es evaluar la capacidad del candidato para crear una 
    - No es necesario implementar un frontend.
    - No es necesario tener muchos productos, 3 son suficientes.
 
+***
+
 ### **Opcional: Implementar Autenticación y Autorización usando JWT**
 
 Como apartado opcional, se solicita que implementes una capa de seguridad utilizando **JWT (JSON Web Token)** para autenticar y autorizar las peticiones a la API. Los tokens se deben generar cuando el usuario inicie sesión y se deben verificar en las solicitudes protegidas.
@@ -113,6 +117,8 @@ Como apartado opcional, se solicita que implementes una capa de seguridad utiliz
    - Correcta implementación del flujo de autenticación y autorización con JWT.
    - Seguridad en la gestión y verificación de tokens.
    - Limpieza y modularidad del código, manteniendo los principios de Clean Architecture.
+
+***
 
 ### **Entrega:**
 

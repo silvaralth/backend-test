@@ -68,6 +68,7 @@ El objetivo de esta prueba es evaluar la capacidad del candidato para crear una 
    - Implementar una capa de repositorio (aunque sea para almacenar datos en memoria) para acceder a los datos.
    - Organizar el código de manera clara y modular.
    - No es necesario implementar un frontend.
+   - No es necesario tener muchos productos, 3 son suficientes.
 
 ### **Opcional: Implementar Autenticación y Autorización usando JWT**
 
@@ -145,4 +146,4 @@ Como apartado opcional, se solicita que implementes una capa de seguridad utiliz
    - Uso de herramientas como ESLint o Prettier para asegurar consistencia en el estilo de código.
 
 ### **Tiempo Estimado**: 
-El candidato debería poder completar la prueba en **4 a 6 horas**, aunque se da flexibilidad en el tiempo de entrega (3 días).
+El candidato debería poder completar la prueba en **4 a 8 horas** de acuerdo a su experiencia, aunque se da flexibilidad en el tiempo de entrega (3 días).
